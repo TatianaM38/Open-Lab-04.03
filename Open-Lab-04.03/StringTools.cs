@@ -12,7 +12,7 @@ namespace Open_Lab_04._03
             }
             else
             {
-                return original.Substring(1, original.Length - 2);
+                return original.Substring(1, original.Length - 2); 
             }
         }
     }
